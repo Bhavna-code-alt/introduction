@@ -1,1 +1,3 @@
 Hello! My name is Bhavna Vaishnav.
+
+I am expanding my skill set by learning JavaScript through a web development course to explore new opportunities.
